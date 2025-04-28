@@ -30,20 +30,19 @@ Contribuir para sua reinserção no mercado jurídico.
 
 Demonstrar o poder da tecnologia como ferramenta de transformação social.
 
- Segurança e Privacidade
+Segurança e Privacidade
 O site foi desenvolvido sem coleta de dados pessoais e respeitando princípios de segurança e privacidade digital.
 
 Links Importantes
 Site Portfólio - Publicado
 
 🛠Repositório no GitHub: [inserir o link do seu repositório]
- Agradecimentos
+Agradecimentos
 Centro Universitário União das Américas Descomplica
 
 Organização parceira
 
 Advogado Pedro, pela confiança e parceria no projeto
-
 
 Licença
 Projeto acadêmico, sem fins lucrativos.
