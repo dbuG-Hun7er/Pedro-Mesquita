@@ -1,4 +1,4 @@
-Resgate Profissional e Social — Portfólio Digital
+Resgate Profissional e Social 
 Projeto de Extensão Acadêmica — Centro Universitário União das Américas Descomplica
 
 Sobre o Projeto
@@ -12,9 +12,8 @@ CSS3
 
 JavaScript (puro)
 
-Bolt.IA (para geração inicial de código)
 
-🖥Estrutura do Site
+Estrutura do Site
 Página Inicial: Apresentação do advogado e sua história de superação.
 
 Serviços: Áreas jurídicas atendidas (Direito Trabalhista, Civil, Consultoria Jurídica).
@@ -33,10 +32,7 @@ Demonstrar o poder da tecnologia como ferramenta de transformação social.
 Segurança e Privacidade
 O site foi desenvolvido sem coleta de dados pessoais e respeitando princípios de segurança e privacidade digital.
 
-Links Importantes
-Site Portfólio - Publicado
 
-🛠Repositório no GitHub: [inserir o link do seu repositório]
 Agradecimentos
 Centro Universitário União das Américas Descomplica
 
